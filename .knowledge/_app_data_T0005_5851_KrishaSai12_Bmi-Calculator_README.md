@@ -1,0 +1,1 @@
+{"is_source_file": false, "format": "", "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "state": 2, "filename": "/app/data/T0005/5851/KrishaSai12/Bmi-Calculator/README.md", "hash": "d18bf25152f112f8b6d21e2f1db48874", "format-version": 3, "code-base-name": "b36311p"}
